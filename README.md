@@ -38,4 +38,4 @@ It validates input data and classifies triangles into different categories.
 
 ---
 
-## 📂 Project Structure
+
